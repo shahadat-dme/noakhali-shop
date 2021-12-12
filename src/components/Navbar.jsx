@@ -78,7 +78,7 @@ const Navbar = () => {
           </SearchContainer>
         </Left>
         <Center>
-          <Logo>Shahadat</Logo>
+          <Logo>Noakhali Shop</Logo>
         </Center>
         <Right>
           <MenuItem>REGISTER</MenuItem>
